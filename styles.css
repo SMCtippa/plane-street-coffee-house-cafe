@@ -1,15 +1,15 @@
 :root {
-  --ink: #2b1d14;
-  --espresso: #3b2820;
-  --espresso-soft: #6b4d3d;
-  --rust: #c1502e;
-  --rust-soft: #e07a4e;
-  --rust-deep: #963d20;
-  --gold: #d9a441;
-  --cream: #f7ede1;
-  --paper: #fdf9f4;
-  --line: rgba(59, 40, 32, 0.14);
-  --shadow: 0 20px 50px -20px rgba(59, 40, 32, 0.35);
+  --ink: #2b1f1c;
+  --espresso: #4a3638;
+  --espresso-soft: #6b5152;
+  --rust: #c9756a;
+  --rust-soft: #e3a89c;
+  --rust-deep: #a85c52;
+  --gold: #dba99c;
+  --cream: #f3ede9;
+  --paper: #fdfaf8;
+  --line: rgba(74, 54, 56, 0.14);
+  --shadow: 0 20px 50px -20px rgba(74, 54, 56, 0.35);
   --radius: 18px;
 }
 
@@ -143,7 +143,7 @@ img { max-width: 100%; display: block; }
   align-items: center;
   overflow: hidden;
   padding: 0 1.25rem;
-  background: linear-gradient(180deg, #4a2d1e 0%, var(--espresso) 45%, #2b1a12 100%);
+  background: linear-gradient(180deg, #5c4245 0%, var(--espresso) 45%, #2b1f1c 100%);
 }
 .flight-path {
   position: absolute;
