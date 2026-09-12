@@ -38,6 +38,8 @@ Don't say "your website is broken" — it isn't, and saying so would undercut th
 - Option B (recommended): $250 upfront + $45/month care plan — Kyle keeps hosting, domain, content updates.
 - Domain registration ~$12–15/yr passed through at cost if they don't already have one.
 
-## Not yet done
-- Not git-initialized or pushed to GitHub yet — do that when asked to publish, per the pipeline convention (`gh repo create SMCtippa/plane-street-coffee-house-cafe --public --source=. --remote=origin --push`, then enable GitHub Pages).
-- No call script built yet.
+## Status
+- Git-initialized, pushed to `github.com/SMCtippa/plane-street-coffee-house-cafe`, GitHub Pages live at https://smctippa.github.io/plane-street-coffee-house-cafe/
+- Real logo swapped in (found via Facebook), palette repainted to match its mauve/coral colors
+- Call script built as an HTML job-ticket artifact per [[sales_call_script_pattern]] — leads with the corrected hook (they have a real, well-kept Square ordering menu, just no actual website/story in front of it), not the earlier "abandoned storefront" claim
+- Not yet called
