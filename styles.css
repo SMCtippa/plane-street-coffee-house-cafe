@@ -419,7 +419,8 @@ input:focus, textarea:focus { outline: 2px solid var(--rust); outline-offset: 1p
   .menu-grid { grid-template-columns: 1fr 1fr; }
   .about-grid { grid-template-columns: 1fr; }
   .contact-grid { grid-template-columns: 1fr; }
-  .brand-word { display: none; }
+  .brand-word { font-size: 0.82rem; }
+  .brand-word em { font-size: 0.62rem; }
 }
 
 @media (max-width: 520px) {
